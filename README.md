@@ -16,7 +16,7 @@ I earned my BBA at Baruch College in Finance and Statistics, then spent summer 2
 | **Options Strategy Backtesting Platform** | Web app backtesting covered call and poor man's covered call strategies, with trade blotter, ledger, and Reg T margin tracking | [Live site](https://bigjayjayhuang.github.io/FIN---Adv-Algo-Trading/) · [Code](https://github.com/BigJayJayHuang/FIN---Adv-Algo-Trading) |
 | **Breakout Strategy with Options Overlay** | INTC breakout strategy tuned with walk-forward testing, extended into an OTM call overlay priced with Black–Scholes | [Code](https://github.com/BigJayJayHuang/Breakout-Options-Strategy) · [Write-up](https://bigjayjayhuang.github.io/fin533-quarto/) |
 | **SLV/GLD Pairs Trading** | Statistical-arbitrage backtest using cointegration tests, an OLS hedge ratio, and z-score entries and exits | [Code](https://github.com/BigJayJayHuang/SLV-GLD-Pairs-Trading) |
-| **NYC Subway Shortest Path** | Dijkstra's algorithm on a weighted subway graph, built with a `heapq` priority queue | [Code](https://github.com/BigJayJayHuang/Graph-Algorithms-Application) |
+| **NYC Subway Shortest Path** | Dijkstra's algorithm on a weighted subway graph, built with a `heapq` priority queue | [Code](https://github.com/BigJayJayHuang/nyc-subway-shortest-path) |
 | **METIS** | Gold-pegged, ETH-collateralized stablecoin MVP on Ethereum Sepolia | [Code](https://github.com/BigJayJayHuang/METIS) |
 | **ML Classifiers from Scratch** | KNN, Naive Bayes, and linear SVM written in C++ | [Code](https://github.com/BigJayJayHuang/ml-classifiers-from-scratch-cpp) |
 
